@@ -1,0 +1,102 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix opendata: <http://opendata.cs.pub.ro/resource/> .
+@prefix vcard: <http://www.w3.org/2001/vcard-rdf/3.0#> .
+
+<http://opendata.cs.pub.ro/resource/Toxiinfectii Alimentare>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toxiinfectii Alimentare" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Angina cu Streptococi>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angina cu Streptococi" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Hepatita Virala>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatita Virala" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Dizenteria Bacilara>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dizenteria Bacilara" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Tetanos  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tetanos" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Parotidita Epidemica>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parotidita Epidemica" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Bolile Diareice Acute>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bolile Diareice Acute" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Meningita Cerebrospinala>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Meningita Cerebrospinala" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Scarlatina  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Scarlatina" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Rugeola  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rugeola" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+<http://opendata.cs.pub.ro/resource/Tusea Convulsiva>
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tusea Convulsiva" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Varicela  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Varicela" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Rubeola  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rubeola" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Erizipel  a  <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Erizipel" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
+
+opendata:Leptospiroza
+        a       <http://dbpedia.org/ontology/Disease> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Leptospiroza" ;
+        <http://opendata.cs.pub.ro/property/tip_boala>
+                "Boli infectioase" .
